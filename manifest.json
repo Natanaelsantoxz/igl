@@ -2,7 +2,7 @@
   "name": "Letícia Godoy Nails",
   "short_name": "Letícia Nails",
   "description": "Agende seu horário no Letícia Godoy Nails",
-  "start_url": "./index.html",
+  "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
